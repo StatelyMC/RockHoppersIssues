@@ -1,2 +1,2 @@
 # RockHoppersIssues
-Issues tracking for Rockhoppers
+Issues tracking for Rockhoppers. There is no code here.
