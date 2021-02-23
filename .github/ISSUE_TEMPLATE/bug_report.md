@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Use the template as needed
+about: Something ain't right
 title: "[BUG]"
 labels: ''
 assignees: StatelyMC
