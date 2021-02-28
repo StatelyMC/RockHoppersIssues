@@ -1,10 +1,10 @@
 ---
 name: Balance
-about: I haven't even started to balance the game. This is for future use
-title: "[BALANCE]"
+about: Game balance issues
+title: "[Balance]"
 labels: ''
 assignees: ''
 
 ---
 
-**We're not there yet**
+Anything related to move speed, damage, resistance, etc.

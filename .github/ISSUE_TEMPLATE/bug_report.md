@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Something ain't right
-title: "[BUG]"
+title: "[Bug]"
 labels: ''
 assignees: StatelyMC
 
